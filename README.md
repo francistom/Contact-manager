@@ -1,14 +1,19 @@
 # Contact-manager
 An app that downloads contacts and adds to contact list and shows the location of the person using Google maps.
 
-Screenshots
+## Screenshot:
 
-![1](https://github.com/francistom/Contact-manager/blob/master/Screenshot/s1.jpg)
+<img src="Screenshots/1.png" width="40%">
 
-![2](https://github.com/francistom/Contact-manager/blob/master/Screenshot/s2.jpg)
 
-![3](https://github.com/francistom/Contact-manager/blob/master/Screenshot/s3.jpg)
+<img src="Screenshots/2.png" width="40%">
 
-![4](https://github.com/francistom/Contact-manager/blob/master/Screenshot/s4.jpg)
 
+<img src="Screenshots/3.png" width="40%">
+
+## Author
+
+Francis Tom
+
+14EE35020
 
