@@ -3,8 +3,6 @@ An app that downloads contacts and adds to contact list and shows the location o
 
 Screenshots
 
-Screenshots
-
 ![1](https://github.com/francistom/Contact-manager/blob/master/Screenshot/s1.jpg)
 
 ![2](https://github.com/francistom/Contact-manager/blob/master/Screenshot/s2.jpg)
